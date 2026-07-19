@@ -21,11 +21,11 @@
 
 ## 一键安装
 
-### 在 ChatGPT 中打开
+GitHub 会过滤直接唤起桌面应用的 `codex://` 链接，因此这里提供经过实际测试的系统命令。复制与你系统对应的一行即可完成安装。
 
-[![在 ChatGPT 中安装](https://img.shields.io/badge/%E5%9C%A8%20ChatGPT%20%E4%B8%AD%E5%AE%89%E8%A3%85-111111?style=for-the-badge&logo=openai&logoColor=white)](codex://new?prompt=%E8%AF%B7%E5%85%A8%E7%A8%8B%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%EF%BC%8C%E4%B8%BA%E6%88%91%E5%AE%89%E8%A3%85%20GitHub%20%E4%BB%93%E5%BA%93%20kornpng%2Fhance-woniu-codex-pet%20%E4%B8%AD%E7%9A%84%20Codex%20%E5%AE%A0%E7%89%A9%E3%80%8C%E6%97%B1%E5%8E%95%E8%9C%97%E7%89%9B%E3%80%8D%E3%80%82%E5%85%88%E5%88%A4%E6%96%AD%E5%BD%93%E5%89%8D%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%86%8D%E8%BF%90%E8%A1%8C%E5%AF%B9%E5%BA%94%E5%91%BD%E4%BB%A4%E3%80%82%E5%AE%89%E8%A3%85%E5%90%8E%E7%A1%AE%E8%AE%A4%20pet.json%20%E4%B8%8E%20spritesheet.webp%20%E4%BD%8D%E4%BA%8E%20Codex%20pets%20%E7%9B%AE%E5%BD%95%EF%BC%8C%E6%8A%A5%E5%91%8A%E5%AE%9E%E9%99%85%E5%AE%89%E8%A3%85%E8%B7%AF%E5%BE%84%EF%BC%8C%E5%B9%B6%E8%AF%B4%E6%98%8E%E5%A6%82%E4%BD%95%E5%9C%A8%E2%80%9C%E8%AE%BE%E7%BD%AE%20%E2%86%92%20%E5%AE%A0%E7%89%A9%E2%80%9D%E4%B8%AD%E5%90%AF%E7%94%A8%E3%80%82%E4%B8%8D%E8%A6%81%E4%BF%AE%E6%94%B9%E5%85%B6%E4%BB%96%E5%AE%A0%E7%89%A9%E3%80%82%0A%0AmacOS%20%2F%20Linux%EF%BC%9A%0Acurl%20-fsSL%20https%3A%2F%2Fraw.githubusercontent.com%2Fkornpng%2Fhance-woniu-codex-pet%2Fmain%2Fscripts%2Finstall.sh%20%7C%20bash%0A%0AWindows%20PowerShell%EF%BC%9A%0Apowershell%20-NoProfile%20-ExecutionPolicy%20Bypass%20-Command%20%22irm%20https%3A%2F%2Fraw.githubusercontent.com%2Fkornpng%2Fhance-woniu-codex-pet%2Fmain%2Fscripts%2Finstall.ps1%20%7C%20iex%22)
+也可以把下面这句话直接发给 Codex：
 
-如果 GitHub 没有把 `codex://` 按钮识别为可点击链接，请使用下面与你系统对应的命令。
+> 请为我安装 GitHub 仓库 `kornpng/hance-woniu-codex-pet` 中的 Codex 宠物“旱厕蜗牛”，只安装这个宠物，不要修改其他宠物。
 
 ### macOS / Linux
 
